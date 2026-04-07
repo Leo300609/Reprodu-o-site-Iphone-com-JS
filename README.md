@@ -24,3 +24,5 @@ Este projeto é uma réplica funcional da interface de visualização do iPhone 
 
 ---
 Projeto desenvolvido para praticar manipulação de eventos e lógica de interface no curso de ADS. 💻🔥
+Com base no curso de Front-End completo do Matheus Battisti.
+
